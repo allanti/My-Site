@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Recoleta';
+    src: local('Recoleta SemiBold'), local('Recoleta-SemiBold'),
+        url('../font/Recoleta-SemiBold.woff2') format('woff2'),
+        url('../font/Recoleta-SemiBold.woff') format('woff'),
+        url('../font/Recoleta-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.text-name
+{
+    text-align: center;
+    font-family: 'Recoleta', sans-serif;
+    margin-bottom: 0px;
+    font-size: 600%;
+    color: #ffffff;
+}
+
+.text-description
+{
+    text-align: center;
+    margin-bottom: 0px;
+    color: #e9d6af;
+    font-size: 150%;
+}
+
+.social-midia
+{
+    margin-top: 14%;
+}
+
+.social-midia-img
+{
+    width: 28%;
+    height: 28%;
+}
+
+.principal-title
+{
+    color: white;
+    margin: 0px;
+    font-family: 'Adrial';
+}
